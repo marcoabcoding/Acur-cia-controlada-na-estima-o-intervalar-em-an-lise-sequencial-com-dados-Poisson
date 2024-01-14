@@ -1,4 +1,4 @@
-# Acurácia-controlada-na-estima-o-intervalar-em-an-lise-sequencial-com-dados-Poisson
-Acurácia controlada na estimação intervalar em análise sequencial com dados Poisson: monitoramento de eventos adversos seguidos de drogas e vacinas recém-comercializadas
+# Acurácia controlada na estimação intervalar em análise sequencial com dados Poisson: monitoramento de eventos adversos seguidos de drogas e vacinas recém-comercializadas
+
 
 A iniciação Científica aborda o uso de análise estatística sequencial em dados Poisson para monitorar eventos adversos de drogas e vacinas. O trabalho foca no desenvolvimento de metodologias para melhorar a precisão nas estimativas de risco relativo, enfatizando a importância do tempo de monitoramento. Através de uma revisão da literatura e análises estatísticas, o relatório contribui significativamente para a segurança na saúde pública, oferecendo métodos otimizados para a detecção precoce de riscos em medicamentos e vacinas recém-comercializados. A conclusão enfatiza a relevância prática dos métodos desenvolvidos e sugere direções para futuras pesquisas na área.
